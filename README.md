@@ -1,6 +1,6 @@
 # LW1 - Introduction to BI & Power BI
 
-Verify Data
+## Verify Data
 <img width="940" height="552" alt="image" src="https://github.com/user-attachments/assets/5176e4f7-9dab-4da1-8b61-9570a8d9eb9c" />
 
 ## Part 3: Creating Auto-Generated Visuals
