@@ -3,6 +3,8 @@
 ## Verify Data
 <img width="940" height="552" alt="image" src="https://github.com/user-attachments/assets/5176e4f7-9dab-4da1-8b61-9570a8d9eb9c" />
 
+Editing the data type of sales from Whole number to Decimal data type.
+
 ## Part 3: Creating Auto-Generated Visuals
 
 Step 1
