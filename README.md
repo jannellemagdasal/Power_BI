@@ -1,4 +1,4 @@
-# Power_BI
+# LW1 - Introduction to BI & Power BI
 
 Verify Data
 <img width="940" height="552" alt="image" src="https://github.com/user-attachments/assets/5176e4f7-9dab-4da1-8b61-9570a8d9eb9c" />
@@ -70,7 +70,18 @@ Task 2
 - When you click a region, the box is highlighted black.
 - Filtering is important in Business Intelligence because it helps people see only the data they need instead of looking at a huge amount of information. It makes reports easier to understand, helps find important patterns or problems, and allows users to focus on specific details like a certain time, place, or product. In simple terms, filtering saves time and helps businesses make better decisions by showing the most useful information.
 
-- 
+Task 3
+
+<img width="379" height="378" alt="image" src="https://github.com/user-attachments/assets/84793b85-c84f-4e75-ad22-2bd0be157ba6" />
+
+Sorting improves readability specially when you want easy and timely updates of your data.
+
+Task 4
+- West region is significantly higher in sales than North region.
+- A higher sales figure in the West region compared to the North region could be due to several business factors. The West may have a larger population, more customers, or stronger demand for the products, leading to higher purchases. It might also have more stores, better marketing campaigns, stronger economic conditions, or higher-priced products that increase total sales. In contrast, the North region may have fewer customers, less market presence, lower spending power, or stronger competition, which can result in lower sales. Overall, differences in market size, strategy, and customer behavior often explain the gap.
+
+
+
 
 
 
