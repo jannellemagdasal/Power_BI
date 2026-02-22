@@ -59,6 +59,21 @@ Part B
 ## Enhancement section
 Task 1
 
+<img width="1495" height="424" alt="image" src="https://github.com/user-attachments/assets/9fbd7d9c-5578-44d6-b03b-3bc0eb2f4bba" />
+
+- 220K Total sales
+
+Task 2
+
+<img width="323" height="330" alt="image" src="https://github.com/user-attachments/assets/d57d109e-22f3-428d-996e-7f861f6c60fd" />
+
+- When you click a region, the box is highlighted black.
+- Filtering is important in Business Intelligence because it helps people see only the data they need instead of looking at a huge amount of information. It makes reports easier to understand, helps find important patterns or problems, and allows users to focus on specific details like a certain time, place, or product. In simple terms, filtering saves time and helps businesses make better decisions by showing the most useful information.
+
+- 
+
+
+
 
 
 
