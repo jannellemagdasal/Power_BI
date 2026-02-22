@@ -47,7 +47,10 @@ Part A
 5) Sum, it adds up all Sales values for whatever context the visual has.
 
 Part B
+
 6) West region contributes the  most revenue
+
+
 7) Office supplies
 8) decreasing across the years
 9) Prioritise North cause the sales are low
